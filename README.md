@@ -1,5 +1,5 @@
-# rn-onboarding-screen
-Onboarding screen layout using React Native
+# rn-login-screen
+Login screen layout using React Native
 
 ## Usage
 Just clone this repo using `git clone <repo>`
